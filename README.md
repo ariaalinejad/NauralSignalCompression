@@ -1,6 +1,6 @@
 # NauralSignalCompression
 
-Abstract: 
+Abstract: </br>
 Brain disorders like Dementia and Parkinson’s affect millions and are one of the
 biggest health problems that the world faces today. However, we are limited by
 a lack of mechanical understanding of the brain [1]. To address this, research
